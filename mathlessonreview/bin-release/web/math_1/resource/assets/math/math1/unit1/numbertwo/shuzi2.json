@@ -1,0 +1,29 @@
+{"file":"shuzi2.png",
+        "mc":{
+          "shuzi2":{
+            "frameRate":8,
+            "labels":[{"name":"start","frame":1}],
+            "events":[],
+            "frames":[
+              {
+                "res": "2001",
+                "x": 0,
+                "y": 0
+              },
+              {
+                "res": "2002",
+                "x": 0,
+                "y": 0
+              },
+              {
+                "res": "2003",
+                "x": 0,
+                "y": 0
+              }
+            ]
+          }
+        },
+  "res":{
+"2001":{"x":1,"y":1,"w":107,"h":151,"offX":0,"offY":0,"sourceW":107,"sourceH":151},
+"2002":{"x":110,"y":1,"w":107,"h":151,"offX":0,"offY":0,"sourceW":107,"sourceH":151},
+"2003":{"x":1,"y":1,"w":107,"h":151,"offX":0,"offY":0,"sourceW":107,"sourceH":151}}}

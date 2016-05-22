@@ -1,0 +1,17 @@
+{"file":"lotusleaf.png",
+  "mc":{
+    "lotusleaf":{
+      "frameRate":5,
+      "labels":[{"name":"start","frame":1}],
+      "frames":[
+        {"res":"h1","x":0,"y":0},
+        {"res":"h2","x":0,"y":0},
+        {"res":"h3","x":0,"y":0},
+        {"res":"h4","x":0,"y":0}]
+    }
+  },
+  "res":{
+"h1":{"x":1,"y":1,"w":285,"h":119,"offX":0,"offY":0,"sourceW":285,"sourceH":119},
+"h2":{"x":1,"y":122,"w":285,"h":119,"offX":0,"offY":0,"sourceW":285,"sourceH":119},
+"h3":{"x":1,"y":243,"w":285,"h":119,"offX":0,"offY":0,"sourceW":285,"sourceH":119},
+"h4":{"x":1,"y":1,"w":285,"h":119,"offX":0,"offY":0,"sourceW":285,"sourceH":119}}}

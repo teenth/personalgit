@@ -1,0 +1,22 @@
+{"file":"jieruchang.png",
+  "mc":{
+    "jieruchang":{
+      "frameRate":15,
+      "labels":[
+        {"name":"start","frame":1}
+      ],
+      "frames":[
+        {"res": "jieruchang1001 (1)","x": 0,"y": 0},
+        {"res": "jieruchang1001 (2)","x": 0,"y": 0},
+        {"res": "jieruchang1001 (3)","x": 0,"y": 0},
+        {"res": "jieruchang1001 (4)","x": 0,"y": 0},
+        {"res": "jieruchang1001 (5)","x": 0,"y": 0}
+      ]
+    }
+  },
+  "res":{
+"jieruchang1001 (1)":{"x":1,"y":1,"w":69,"h":37,"offX":0,"offY":0,"sourceW":69,"sourceH":37},
+"jieruchang1001 (2)":{"x":1,"y":40,"w":69,"h":37,"offX":0,"offY":0,"sourceW":69,"sourceH":37},
+"jieruchang1001 (3)":{"x":1,"y":79,"w":69,"h":37,"offX":0,"offY":0,"sourceW":69,"sourceH":37},
+"jieruchang1001 (4)":{"x":1,"y":40,"w":69,"h":37,"offX":0,"offY":0,"sourceW":69,"sourceH":37},
+"jieruchang1001 (5)":{"x":1,"y":1,"w":69,"h":37,"offX":0,"offY":0,"sourceW":69,"sourceH":37}}}

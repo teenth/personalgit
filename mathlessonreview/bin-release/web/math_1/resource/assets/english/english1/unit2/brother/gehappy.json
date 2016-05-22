@@ -1,0 +1,20 @@
+{"file":"gehappy.png",
+  "mc":{
+    "gehappy":{
+      "frameRate":15,
+      "labels":[
+        {"name":"start","frame":1}
+      ],
+      "frames":[
+        {"res": "gehappy1001 (1)","x": 0,"y": 0},
+        {"res": "gehappy1001 (2)","x": 0,"y": 0},
+        {"res": "gehappy1001 (3)","x": 0,"y": 0},
+        {"res": "gehappy1001 (4)","x": 0,"y": 0}
+      ]
+    }
+  },
+  "res":{
+"gehappy1001 (1)":{"x":64,"y":41,"w":61,"h":38,"offX":0,"offY":0,"sourceW":61,"sourceH":38},
+"gehappy1001 (2)":{"x":1,"y":1,"w":61,"h":38,"offX":0,"offY":0,"sourceW":61,"sourceH":38},
+"gehappy1001 (3)":{"x":64,"y":1,"w":61,"h":38,"offX":0,"offY":0,"sourceW":61,"sourceH":38},
+"gehappy1001 (4)":{"x":1,"y":41,"w":61,"h":38,"offX":0,"offY":0,"sourceW":61,"sourceH":38}}}

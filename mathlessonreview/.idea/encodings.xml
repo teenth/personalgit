@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/resource/assets/common/endview/huisecaihong.png" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/resource/assets/common/nextjumpbutton.png" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/resource/assets/english/english1/unit1/family.png" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/resource/assets/english/english1/unit1/familyend.png" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/resource/assets/english/english1/unit2/family.json" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/resource/assets/english/english1/unit2/family.png" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/resource/assets/english/english1/unit2/familyemotion.json" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/resource/assets/english/english1/unit2/familyemotion.png" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/resource/assets/math/math1/unit1/numbertwo/image2.json" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/resource/media/common/bouncestar/lastlesson.ogg" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/resource/media/english/english1/unit1/family.mp4" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/resource/media/english/english1/unit2/firstwrong.ogg" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/resource/media/english/english1/unit2/hiready.ogg" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/resource/media/english/english1/unit2/onceremind.ogg" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/resource/media/english/english1/unit2/secondwrong.ogg" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/resource/media/english/english1/unit2/smallcameraman.ogg" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/resource/media/english/english1/unit2/thirdremind.ogg" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/resource/media/english/english1/unit2/trysayenglishname.ogg" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/resource/media/english/english1/unit2/twiceremind.ogg" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/resource/media/english/english1/unit2/uhthirdwrongbrother.ogg" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/resource/media/english/english1/unit2/uhthirdwrongdaddy.ogg" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/resource/media/english/english1/unit2/uhthirdwronggrandma.ogg" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/resource/media/english/english1/unit2/uhthirdwronggrandpa.ogg" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/resource/media/english/english1/unit2/uhthirdwrongmommy.ogg" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/resource/media/english/english1/unit2/uhthirdwrongsister.ogg" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/resource/media/english/english1/unit3/dragimagetoframe.ogg" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/resource/media/english/english1/unit3/firstwrong.ogg" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/resource/media/english/english1/unit3/keepcontinuegood.ogg" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/resource/media/english/english1/unit3/photowall.ogg" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/resource/media/english/english1/unit3/playgoon.ogg" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/resource/media/english/english1/unit3/playnexttime.ogg" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/resource/media/english/english1/unit3/secondwrong.ogg" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/resource/media/english/english1/unit3/thirdwrongbrother.ogg" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/resource/media/english/english1/unit3/thirdwrongdaddy.ogg" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/resource/media/english/english1/unit3/thirdwronggrandma.ogg" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/resource/media/english/english1/unit3/thirdwronggrandpa.ogg" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/resource/media/english/english1/unit3/thirdwrongmommy.ogg" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/resource/media/english/english1/unit3/thirdwrongsister.ogg" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/resource/media/english/english1/unit3/word/brother.ogg" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/resource/media/english/english1/unit3/word/daddy.ogg" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/resource/media/english/english1/unit3/word/grandma.ogg" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/resource/media/english/english1/unit3/word/grandpa.ogg" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/resource/media/english/english1/unit3/word/mommy.ogg" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/resource/media/english/english1/unit3/word/sister.ogg" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/manager/viewManager.ts" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/math1/unit1/math1Unit1Numberone.ts" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/math1/unit1/math1Unit1Numberthree.ts" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/math1/unit1/math1Unit1Numbertwo.ts" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>

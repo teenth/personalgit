@@ -1,0 +1,22 @@
+{"file":"fatherhappy.png",
+  "mc":{
+    "fatherhappy":{
+      "frameRate":15,
+      "labels":[
+        {"name":"start","frame":1}
+      ],
+      "frames":[
+        {"res": "ba2001","x": 0,"y": 0},
+        {"res": "ba2002","x": 0,"y": 0},
+        {"res": "ba2003","x": 0,"y": 0},
+        {"res": "ba2004","x": 0,"y": 0},
+        {"res": "ba2005","x": 0,"y": 0}
+        ]
+    }
+  },
+  "res":{
+"ba2001":{"x":1,"y":1,"w":63,"h":46,"offX":0,"offY":0,"sourceW":63,"sourceH":46},
+"ba2002":{"x":1,"y":49,"w":63,"h":46,"offX":0,"offY":0,"sourceW":63,"sourceH":46},
+"ba2003":{"x":1,"y":97,"w":63,"h":46,"offX":0,"offY":0,"sourceW":63,"sourceH":46},
+"ba2004":{"x":1,"y":145,"w":63,"h":46,"offX":0,"offY":0,"sourceW":63,"sourceH":46},
+"ba2005":{"x":1,"y":193,"w":63,"h":46,"offX":0,"offY":0,"sourceW":63,"sourceH":46}}}

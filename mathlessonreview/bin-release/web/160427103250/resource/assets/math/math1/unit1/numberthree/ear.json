@@ -1,0 +1,1286 @@
+{
+  "frameRate": 24,
+  "isGlobal": 0,
+  "armature": [
+    {
+      "bone": [
+        {
+          "name": "root",
+          "transform": {}
+        },
+        {
+          "transform": {},
+          "name": "bone",
+          "parent": "root"
+        },
+        {
+          "transform": {
+            "y": -69.35,
+            "skX": -114.8182,
+            "skY": -114.8182,
+            "x": -60.1
+          },
+          "length": 13,
+          "name": "eyeleft",
+          "parent": "root"
+        },
+        {
+          "transform": {
+            "y": -89.85,
+            "skX": -115.7407,
+            "skY": -115.7407,
+            "x": -27.35
+          },
+          "length": 12,
+          "name": "eyeright",
+          "parent": "root"
+        },
+        {
+          "transform": {
+            "y": -26,
+            "skX": 125.3948,
+            "skY": 125.3948,
+            "x": -10
+          },
+          "length": 46,
+          "name": "arm",
+          "parent": "root"
+        },
+        {
+          "transform": {
+            "y": 0.3006,
+            "skX": 115.5486,
+            "skY": 115.5486,
+            "x": 45.6606
+          },
+          "length": 23,
+          "name": "arm2",
+          "parent": "arm"
+        },
+        {
+          "transform": {
+            "y": 28,
+            "skX": 105.0457,
+            "skY": 105.0457,
+            "x": 22
+          },
+          "length": 37,
+          "name": "left",
+          "parent": "bone"
+        },
+        {
+          "transform": {
+            "y": 27,
+            "skX": 121.5043,
+            "skY": 121.5043,
+            "x": -8
+          },
+          "length": 36,
+          "name": "legright",
+          "parent": "bone"
+        },
+        {
+          "transform": {
+            "y": -4.418,
+            "skX": -91.8001,
+            "skY": -91.8001,
+            "x": 53.6954
+          },
+          "length": 18,
+          "name": "hand",
+          "parent": "arm2"
+        },
+        {
+          "transform": {
+            "y": 1.6447,
+            "skX": -64.8626,
+            "skY": -64.8626,
+            "x": 48.6235
+          },
+          "length": 34,
+          "name": "bone2",
+          "parent": "left"
+        },
+        {
+          "transform": {
+            "y": 0.6371,
+            "skX": -61.4859,
+            "skY": -61.4859,
+            "x": 49.6842
+          },
+          "length": 30,
+          "name": "leg2",
+          "parent": "legright"
+        },
+        {
+          "transform": {
+            "y": -1.2921,
+            "skX": 97.674,
+            "skY": 97.674,
+            "x": 56.9941
+          },
+          "length": 21,
+          "name": "footleft",
+          "parent": "bone2"
+        },
+        {
+          "transform": {
+            "y": -3.0316,
+            "skX": 80.6922,
+            "skY": 80.6922,
+            "x": 46.774
+          },
+          "length": 28,
+          "name": "foot",
+          "parent": "leg2"
+        }
+      ],
+      "slot": [
+        {
+          "name": "ear",
+          "parent": "root"
+        },
+        {
+          "z": 1,
+          "name": "leg3",
+          "parent": "left"
+        },
+        {
+          "z": 2,
+          "name": "leg4",
+          "parent": "bone2"
+        },
+        {
+          "z": 3,
+          "name": "foot2",
+          "parent": "footleft"
+        },
+        {
+          "z": 4,
+          "name": "leg1",
+          "parent": "legright"
+        },
+        {
+          "z": 5,
+          "name": "leg2",
+          "parent": "leg2"
+        },
+        {
+          "z": 6,
+          "name": "foot1",
+          "parent": "foot"
+        },
+        {
+          "z": 7,
+          "name": "arm1",
+          "parent": "arm"
+        },
+        {
+          "z": 8,
+          "name": "arm2 ",
+          "parent": "arm2"
+        },
+        {
+          "z": 9,
+          "name": "hand",
+          "parent": "hand"
+        },
+        {
+          "z": 10,
+          "name": "eye2",
+          "parent": "eyeright"
+        },
+        {
+          "z": 11,
+          "name": "eye1",
+          "parent": "eyeleft"
+        }
+      ],
+      "skin": [
+        {
+          "name": "",
+          "slot": [
+            {
+              "display": [
+                {
+                  "type": "image",
+                  "name": "eye1",
+                  "transform": {
+                    "y": 2.3893,
+                    "skX": 114.8182,
+                    "skY": 114.8182,
+                    "x": 5.1665
+                  }
+                }
+              ],
+              "name": "eye1"
+            },
+            {
+              "display": [
+                {
+                  "type": "image",
+                  "name": "arm2 ",
+                  "transform": {
+                    "y": -0.4708,
+                    "skX": 120.9638,
+                    "skY": 120.9638,
+                    "x": 25.3834
+                  }
+                }
+              ],
+              "name": "arm2 "
+            },
+            {
+              "display": [
+                {
+                  "type": "image",
+                  "name": "leg2",
+                  "transform": {
+                    "y": -1.4319,
+                    "skX": -60.0184,
+                    "skY": -60.0184,
+                    "x": 24.6415
+                  }
+                }
+              ],
+              "name": "leg2"
+            },
+            {
+              "display": [
+                {
+                  "type": "image",
+                  "name": "eye2",
+                  "transform": {
+                    "y": 3.2962,
+                    "skX": 115.7407,
+                    "skY": 115.7407,
+                    "x": 6.8365
+                  }
+                }
+              ],
+              "name": "eye2"
+            },
+            {
+              "display": [
+                {
+                  "type": "image",
+                  "name": "leg3",
+                  "transform": {
+                    "y": 0.7908,
+                    "skX": -104.0345,
+                    "skY": -104.0345,
+                    "x": 24.3042
+                  }
+                }
+              ],
+              "name": "leg3"
+            },
+            {
+              "display": [
+                {
+                  "type": "image",
+                  "name": "arm1",
+                  "transform": {
+                    "y": -0.361,
+                    "skX": -127.6459,
+                    "skY": -127.6459,
+                    "x": 20.1478
+                  }
+                }
+              ],
+              "name": "arm1"
+            },
+            {
+              "display": [
+                {
+                  "type": "image",
+                  "name": "foot2",
+                  "transform": {
+                    "y": 1.514,
+                    "skX": -136.8476,
+                    "skY": -136.8476,
+                    "x": 15.486
+                  }
+                }
+              ],
+              "name": "foot2"
+            },
+            {
+              "display": [
+                {
+                  "type": "image",
+                  "name": "leg1",
+                  "transform": {
+                    "y": 0.2465,
+                    "skX": -124.4888,
+                    "skY": -124.4888,
+                    "x": 25.0383
+                  }
+                }
+              ],
+              "name": "leg1"
+            },
+            {
+              "display": [
+                {
+                  "type": "image",
+                  "name": "hand",
+                  "transform": {
+                    "y": 0.9163,
+                    "skX": -147.2361,
+                    "skY": -147.2361,
+                    "x": 8.4358
+                  }
+                }
+              ],
+              "name": "hand"
+            },
+            {
+              "display": [
+                {
+                  "type": "image",
+                  "name": "leg4",
+                  "transform": {
+                    "y": 0.1718,
+                    "skX": -37.2517,
+                    "skY": -37.2517,
+                    "x": 25.0169
+                  }
+                }
+              ],
+              "name": "leg4"
+            },
+            {
+              "display": [
+                {
+                  "type": "image",
+                  "name": "foot1",
+                  "transform": {
+                    "y": -1.5353,
+                    "skX": -140.7106,
+                    "skY": -140.7106,
+                    "x": 8.6108
+                  }
+                }
+              ],
+              "name": "foot1"
+            },
+            {
+              "display": [
+                {
+                  "type": "image",
+                  "name": "ear",
+                  "transform": {
+                    "y": -26.45,
+                    "x": -12.5
+                  }
+                }
+              ],
+              "name": "ear"
+            }
+          ]
+        }
+      ],
+      "name": "ear",
+      "animation": [
+        {
+          "duration": 20,
+          "frame": [
+            {
+              "duration": 0,
+              "tweenEasing": null,
+              "event": "begin"
+            }
+          ],
+          "slot": [
+            {
+              "frame": [],
+              "name": "ear"
+            },
+            {
+              "frame": [],
+              "name": "leg3"
+            },
+            {
+              "frame": [],
+              "name": "leg4"
+            },
+            {
+              "frame": [],
+              "name": "foot2"
+            },
+            {
+              "frame": [],
+              "name": "leg1"
+            },
+            {
+              "frame": [],
+              "name": "leg2"
+            },
+            {
+              "frame": [],
+              "name": "foot1"
+            },
+            {
+              "frame": [],
+              "name": "arm1"
+            },
+            {
+              "frame": [],
+              "name": "arm2 "
+            },
+            {
+              "frame": [],
+              "name": "hand"
+            },
+            {
+              "frame": [],
+              "name": "eye2"
+            },
+            {
+              "frame": [],
+              "name": "eye1"
+            }
+          ],
+          "playTimes": 0,
+          "bone": [
+            {
+              "frame": [
+                {
+                  "duration": 5,
+                  "tweenEasing": 0,
+                  "transform": {
+                    "y": -19
+                  }
+                },
+                {
+                  "duration": 5,
+                  "tweenEasing": 0,
+                  "transform": {}
+                },
+                {
+                  "duration": 5,
+                  "tweenEasing": 0,
+                  "transform": {
+                    "y": -15
+                  }
+                },
+                {
+                  "duration": 5,
+                  "tweenEasing": 0,
+                  "transform": {
+                    "y": -5
+                  }
+                },
+                {
+                  "duration": 0,
+                  "tweenEasing": null,
+                  "transform": {
+                    "y": -19
+                  }
+                }
+              ],
+              "name": "root"
+            },
+            {
+              "frame": [
+                {
+                  "duration": 10,
+                  "tweenEasing": 0,
+                  "transform": {}
+                },
+                {
+                  "duration": 10,
+                  "tweenEasing": 0,
+                  "transform": {
+                    "y": -11
+                  }
+                },
+                {
+                  "duration": 0,
+                  "tweenEasing": null,
+                  "transform": {}
+                }
+              ],
+              "name": "bone"
+            },
+            {
+              "frame": [
+                {
+                  "duration": 5,
+                  "tweenEasing": 0,
+                  "transform": {
+                    "skX": 35.0914,
+                    "skY": 35.0914
+                  }
+                },
+                {
+                  "duration": 5,
+                  "tweenEasing": 0,
+                  "transform": {
+                    "skX": 8.914,
+                    "skY": 8.914
+                  }
+                },
+                {
+                  "duration": 5,
+                  "tweenEasing": 0,
+                  "transform": {
+                    "skX": -29.0813,
+                    "skY": -29.0813
+                  }
+                },
+                {
+                  "duration": 5,
+                  "tweenEasing": 0,
+                  "transform": {
+                    "skX": -47.8617,
+                    "skY": -47.8617
+                  }
+                },
+                {
+                  "duration": 0,
+                  "tweenEasing": null,
+                  "transform": {
+                    "skX": 35.0914,
+                    "skY": 35.0914
+                  }
+                }
+              ],
+              "name": "legright"
+            },
+            {
+              "frame": [
+                {
+                  "duration": 5,
+                  "tweenEasing": 0,
+                  "transform": {
+                    "skX": -31.3695,
+                    "skY": -31.3695
+                  }
+                },
+                {
+                  "duration": 5,
+                  "tweenEasing": 0,
+                  "transform": {
+                    "skX": 6.1117,
+                    "skY": 6.1117
+                  }
+                },
+                {
+                  "duration": 5,
+                  "tweenEasing": 0,
+                  "transform": {
+                    "skX": 34.6024,
+                    "skY": 34.6024
+                  }
+                },
+                {
+                  "duration": 5,
+                  "tweenEasing": 0,
+                  "transform": {
+                    "skX": 34.4779,
+                    "skY": 34.4779
+                  }
+                },
+                {
+                  "duration": 0,
+                  "tweenEasing": null,
+                  "transform": {
+                    "skX": -31.3695,
+                    "skY": -31.3695
+                  }
+                }
+              ],
+              "name": "leg2"
+            },
+            {
+              "frame": [
+                {
+                  "duration": 5,
+                  "tweenEasing": 0,
+                  "transform": {
+                    "skX": -25.5358,
+                    "skY": -25.5358
+                  }
+                },
+                {
+                  "duration": 5,
+                  "tweenEasing": 0,
+                  "transform": {
+                    "skX": -20.6804,
+                    "skY": -20.6804
+                  }
+                },
+                {
+                  "duration": 5,
+                  "tweenEasing": 0,
+                  "transform": {
+                    "skX": -26.1823,
+                    "skY": -26.1823
+                  }
+                },
+                {
+                  "duration": 5,
+                  "tweenEasing": 0,
+                  "transform": {
+                    "skX": -21.3742,
+                    "skY": -21.3742
+                  }
+                },
+                {
+                  "duration": 0,
+                  "tweenEasing": null,
+                  "transform": {
+                    "skX": -25.5358,
+                    "skY": -25.5358
+                  }
+                }
+              ],
+              "name": "foot"
+            },
+            {
+              "frame": [
+                {
+                  "duration": 5,
+                  "tweenEasing": 0,
+                  "transform": {
+                    "skX": -9.7949,
+                    "skY": -9.7949
+                  }
+                },
+                {
+                  "duration": 5,
+                  "tweenEasing": 0,
+                  "transform": {
+                    "skX": -15.5277,
+                    "skY": -15.5277
+                  }
+                },
+                {
+                  "duration": 5,
+                  "tweenEasing": 0,
+                  "transform": {
+                    "skX": 53.0477,
+                    "skY": 53.0477
+                  }
+                },
+                {
+                  "duration": 5,
+                  "tweenEasing": 0,
+                  "transform": {
+                    "skX": 33.9118,
+                    "skY": 33.9118
+                  }
+                },
+                {
+                  "duration": 0,
+                  "tweenEasing": null,
+                  "transform": {
+                    "skX": -9.7949,
+                    "skY": -9.7949
+                  }
+                }
+              ],
+              "name": "left"
+            },
+            {
+              "frame": [
+                {
+                  "duration": 5,
+                  "tweenEasing": 0,
+                  "transform": {
+                    "skX": 32.6996,
+                    "skY": 32.6996
+                  }
+                },
+                {
+                  "duration": 5,
+                  "tweenEasing": 0,
+                  "transform": {
+                    "skX": 10.4015,
+                    "skY": 10.4015
+                  }
+                },
+                {
+                  "duration": 5,
+                  "tweenEasing": 0,
+                  "transform": {
+                    "skX": -40.9921,
+                    "skY": -40.9921
+                  }
+                },
+                {
+                  "duration": 5,
+                  "tweenEasing": 0,
+                  "transform": {
+                    "skX": 27.842,
+                    "skY": 27.842
+                  }
+                },
+                {
+                  "duration": 0,
+                  "tweenEasing": null,
+                  "transform": {
+                    "skX": 32.6996,
+                    "skY": 32.6996
+                  }
+                }
+              ],
+              "name": "bone2"
+            },
+            {
+              "frame": [
+                {
+                  "duration": 5,
+                  "tweenEasing": 0,
+                  "transform": {
+                    "skX": -51.7041,
+                    "skY": -51.7041
+                  }
+                },
+                {
+                  "duration": 5,
+                  "tweenEasing": 0,
+                  "transform": {
+                    "skX": -25.6684,
+                    "skY": -25.6684
+                  }
+                },
+                {
+                  "duration": 5,
+                  "tweenEasing": 0,
+                  "transform": {
+                    "skX": -64.7544,
+                    "skY": -64.7544
+                  }
+                },
+                {
+                  "duration": 5,
+                  "tweenEasing": 0,
+                  "transform": {
+                    "skX": -58.298,
+                    "skY": -58.298
+                  }
+                },
+                {
+                  "duration": 0,
+                  "tweenEasing": null,
+                  "transform": {
+                    "skX": -51.7041,
+                    "skY": -51.7041
+                  }
+                }
+              ],
+              "name": "footleft"
+            },
+            {
+              "frame": [
+                {
+                  "duration": 20,
+                  "tweenEasing": null,
+                  "transform": {}
+                }
+              ],
+              "name": "arm"
+            },
+            {
+              "frame": [
+                {
+                  "duration": 5,
+                  "tweenEasing": 0,
+                  "transform": {}
+                },
+                {
+                  "duration": 5,
+                  "tweenEasing": 0,
+                  "transform": {
+                    "skX": -16.9724,
+                    "skY": -16.9724
+                  }
+                },
+                {
+                  "duration": 5,
+                  "tweenEasing": 0,
+                  "transform": {}
+                },
+                {
+                  "duration": 5,
+                  "tweenEasing": 0,
+                  "transform": {
+                    "skX": -16.9724,
+                    "skY": -16.9724
+                  }
+                },
+                {
+                  "duration": 0,
+                  "tweenEasing": null,
+                  "transform": {}
+                }
+              ],
+              "name": "arm2"
+            },
+            {
+              "frame": [
+                {
+                  "duration": 5,
+                  "tweenEasing": 0,
+                  "transform": {}
+                },
+                {
+                  "duration": 5,
+                  "tweenEasing": 0,
+                  "transform": {
+                    "skX": 19.8254,
+                    "skY": 19.8254
+                  }
+                },
+                {
+                  "duration": 5,
+                  "tweenEasing": 0,
+                  "transform": {}
+                },
+                {
+                  "duration": 5,
+                  "tweenEasing": 0,
+                  "transform": {
+                    "skX": 19.8254,
+                    "skY": 19.8254
+                  }
+                },
+                {
+                  "duration": 0,
+                  "tweenEasing": null,
+                  "transform": {}
+                }
+              ],
+              "name": "hand"
+            },
+            {
+              "frame": [
+                {
+                  "duration": 20,
+                  "tweenEasing": null,
+                  "transform": {}
+                }
+              ],
+              "name": "eyeleft"
+            },
+            {
+              "frame": [
+                {
+                  "duration": 20,
+                  "tweenEasing": null,
+                  "transform": {}
+                }
+              ],
+              "name": "eyeright"
+            }
+          ],
+          "name": "walkear"
+        },
+        {
+          "duration": 10,
+          "frame": [
+            {
+              "duration": 0,
+              "tweenEasing": null,
+              "event": "Surprised",
+              "sound": "jump"
+            }
+          ],
+          "slot": [
+            {
+              "frame": [],
+              "name": "ear"
+            },
+            {
+              "frame": [],
+              "name": "leg3"
+            },
+            {
+              "frame": [],
+              "name": "leg4"
+            },
+            {
+              "frame": [],
+              "name": "foot2"
+            },
+            {
+              "frame": [],
+              "name": "leg1"
+            },
+            {
+              "frame": [],
+              "name": "leg2"
+            },
+            {
+              "frame": [],
+              "name": "foot1"
+            },
+            {
+              "frame": [],
+              "name": "arm1"
+            },
+            {
+              "frame": [],
+              "name": "arm2 "
+            },
+            {
+              "frame": [],
+              "name": "hand"
+            },
+            {
+              "frame": [],
+              "name": "eye2"
+            },
+            {
+              "frame": [],
+              "name": "eye1"
+            }
+          ],
+          "playTimes": 0,
+          "bone": [
+            {
+              "frame": [
+                {
+                  "duration": 5,
+                  "tweenEasing": 0,
+                  "transform": {}
+                },
+                {
+                  "duration": 5,
+                  "tweenEasing": 0,
+                  "transform": {
+                    "y": -37.9481,
+                    "skX": 31.4452,
+                    "skY": 31.4452,
+                    "x": 36.0507
+                  }
+                },
+                {
+                  "duration": 0,
+                  "tweenEasing": null,
+                  "transform": {
+                    "y": -37.9481,
+                    "skX": 31.4452,
+                    "skY": 31.4452,
+                    "x": 36.0507
+                  }
+                }
+              ],
+              "name": "root"
+            },
+            {
+              "frame": [
+                {
+                  "duration": 10,
+                  "tweenEasing": null,
+                  "transform": {}
+                }
+              ],
+              "name": "bone"
+            },
+            {
+              "frame": [
+                {
+                  "duration": 5,
+                  "tweenEasing": null,
+                  "transform": {}
+                },
+                {
+                  "duration": 5,
+                  "tweenEasing": 0,
+                  "transform": {
+                    "y": -15.5682,
+                    "x": -25.1508
+                  }
+                },
+                {
+                  "duration": 0,
+                  "tweenEasing": null,
+                  "transform": {
+                    "y": -15.5682,
+                    "x": -25.1508
+                  }
+                }
+              ],
+              "name": "eyeleft"
+            },
+            {
+              "frame": [
+                {
+                  "duration": 5,
+                  "tweenEasing": null,
+                  "transform": {}
+                },
+                {
+                  "duration": 5,
+                  "tweenEasing": 0,
+                  "transform": {
+                    "y": -29.7938,
+                    "x": -18.2709
+                  }
+                },
+                {
+                  "duration": 0,
+                  "tweenEasing": null,
+                  "transform": {
+                    "y": -29.7938,
+                    "x": -18.2709
+                  }
+                }
+              ],
+              "name": "eyeright"
+            },
+            {
+              "frame": [
+                {
+                  "duration": 5,
+                  "tweenEasing": null,
+                  "transform": {}
+                },
+                {
+                  "duration": 5,
+                  "tweenEasing": 0,
+                  "transform": {
+                    "skX": 138.1466,
+                    "skY": 138.1466
+                  }
+                },
+                {
+                  "duration": 0,
+                  "tweenEasing": null,
+                  "transform": {
+                    "skX": 138.1466,
+                    "skY": 138.1466
+                  }
+                }
+              ],
+              "name": "arm"
+            },
+            {
+              "frame": [
+                {
+                  "duration": 5,
+                  "tweenEasing": null,
+                  "transform": {}
+                },
+                {
+                  "duration": 5,
+                  "tweenEasing": 0,
+                  "transform": {
+                    "y": 4.1775,
+                    "skX": -88.971,
+                    "skY": -88.971,
+                    "x": 1.2062
+                  }
+                },
+                {
+                  "duration": 0,
+                  "tweenEasing": null,
+                  "transform": {
+                    "y": 0.0502,
+                    "skX": -88.971,
+                    "skY": -88.971,
+                    "x": -0.4724
+                  }
+                }
+              ],
+              "name": "arm2"
+            },
+            {
+              "frame": [
+                {
+                  "duration": 5,
+                  "tweenEasing": null,
+                  "transform": {}
+                },
+                {
+                  "duration": 5,
+                  "tweenEasing": 0,
+                  "transform": {
+                    "skX": -19.9221,
+                    "skY": -19.9221
+                  }
+                },
+                {
+                  "duration": 0,
+                  "tweenEasing": null,
+                  "transform": {
+                    "skX": -19.9221,
+                    "skY": -19.9221
+                  }
+                }
+              ],
+              "name": "left"
+            },
+            {
+              "frame": [
+                {
+                  "duration": 5,
+                  "tweenEasing": 0,
+                  "transform": {}
+                },
+                {
+                  "duration": 5,
+                  "tweenEasing": 0,
+                  "transform": {
+                    "skX": -34.104,
+                    "skY": -34.104
+                  }
+                },
+                {
+                  "duration": 0,
+                  "tweenEasing": null,
+                  "transform": {
+                    "skX": -34.104,
+                    "skY": -34.104
+                  }
+                }
+              ],
+              "name": "legright"
+            },
+            {
+              "frame": [
+                {
+                  "duration": 5,
+                  "tweenEasing": null,
+                  "transform": {}
+                },
+                {
+                  "duration": 5,
+                  "tweenEasing": 0,
+                  "transform": {
+                    "skX": 105.3249,
+                    "skY": 105.3249
+                  }
+                },
+                {
+                  "duration": 0,
+                  "tweenEasing": null,
+                  "transform": {
+                    "skX": 105.3249,
+                    "skY": 105.3249
+                  }
+                }
+              ],
+              "name": "hand"
+            },
+            {
+              "frame": [
+                {
+                  "duration": 5,
+                  "tweenEasing": null,
+                  "transform": {}
+                },
+                {
+                  "duration": 5,
+                  "tweenEasing": 0,
+                  "transform": {
+                    "skX": 57.8947,
+                    "skY": 57.8947
+                  }
+                },
+                {
+                  "duration": 0,
+                  "tweenEasing": null,
+                  "transform": {
+                    "y": -0.3497,
+                    "skX": 57.8947,
+                    "skY": 57.8947,
+                    "x": -0.2829
+                  }
+                }
+              ],
+              "name": "bone2"
+            },
+            {
+              "frame": [
+                {
+                  "duration": 5,
+                  "tweenEasing": null,
+                  "transform": {}
+                },
+                {
+                  "duration": 5,
+                  "tweenEasing": 0,
+                  "transform": {
+                    "skX": 68.7952,
+                    "skY": 68.7952
+                  }
+                },
+                {
+                  "duration": 0,
+                  "tweenEasing": null,
+                  "transform": {
+                    "y": 0.2623,
+                    "skX": 68.7952,
+                    "skY": 68.7952,
+                    "x": -0.5433
+                  }
+                }
+              ],
+              "name": "leg2"
+            },
+            {
+              "frame": [
+                {
+                  "duration": 5,
+                  "tweenEasing": null,
+                  "transform": {}
+                },
+                {
+                  "duration": 5,
+                  "tweenEasing": 0,
+                  "transform": {
+                    "skX": -29.4107,
+                    "skY": -29.4107
+                  }
+                },
+                {
+                  "duration": 0,
+                  "tweenEasing": null,
+                  "transform": {
+                    "skX": -29.4107,
+                    "skY": -29.4107
+                  }
+                }
+              ],
+              "name": "footleft"
+            },
+            {
+              "frame": [
+                {
+                  "duration": 5,
+                  "tweenEasing": null,
+                  "transform": {}
+                },
+                {
+                  "duration": 5,
+                  "tweenEasing": 0,
+                  "transform": {
+                    "skX": -21.8527,
+                    "skY": -21.8527
+                  }
+                },
+                {
+                  "duration": 0,
+                  "tweenEasing": null,
+                  "transform": {
+                    "skX": -21.8527,
+                    "skY": -21.8527
+                  }
+                }
+              ],
+              "name": "foot"
+            }
+          ],
+          "name": "supear"
+        }
+      ]
+    }
+  ],
+  "name": "ear",
+  "version": "4.0"
+}

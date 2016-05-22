@@ -1,0 +1,13 @@
+{"file":"duck.png",
+  "mc":{
+    "duck":{
+      "frameRate":5,
+      "labels":[{"name":"start","frame":1}],
+      "frames":[
+        {"res":"duck1","x":0,"y":0},
+        {"res":"duck2","x":0,"y":0}]
+    }
+  },
+  "res":{
+    "duck1":{"x":1,"y":1,"w":172,"h":172,"offX":0,"offY":0,"sourceW":172,"sourceH":172},
+    "duck2":{"x":175,"y":1,"w":172,"h":172,"offX":0,"offY":0,"sourceW":172,"sourceH":172}}}

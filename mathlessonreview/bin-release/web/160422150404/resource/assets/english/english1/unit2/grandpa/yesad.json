@@ -1,0 +1,24 @@
+{"file":"yesad.png",
+  "mc":{
+    "yesad":{
+      "frameRate":15,
+      "labels":[
+        {"name":"start","frame":1}
+      ],
+      "frames":[
+        {"res": "yesad (1)","x": 0,"y": 0},
+        {"res": "yesad (2)","x": 0,"y": 0},
+        {"res": "yesad (3)","x": 0,"y": 0},
+        {"res": "yesad (4)","x": 0,"y": 0},
+        {"res": "yesad (5)","x": 0,"y": 0},
+        {"res": "yesad (6)","x": 0,"y": 0}
+      ]
+    }
+  },
+  "res":{
+"yesad (1)":{"x":1,"y":1,"w":85,"h":61,"offX":0,"offY":0,"sourceW":85,"sourceH":61},
+"yesad (2)":{"x":88,"y":1,"w":85,"h":61,"offX":0,"offY":0,"sourceW":85,"sourceH":61},
+"yesad (3)":{"x":1,"y":64,"w":85,"h":61,"offX":0,"offY":0,"sourceW":85,"sourceH":61},
+"yesad (4)":{"x":88,"y":64,"w":85,"h":61,"offX":0,"offY":0,"sourceW":85,"sourceH":61},
+"yesad (5)":{"x":1,"y":127,"w":85,"h":61,"offX":0,"offY":0,"sourceW":85,"sourceH":61},
+"yesad (6)":{"x":1,"y":190,"w":85,"h":61,"offX":0,"offY":0,"sourceW":85,"sourceH":61}}}

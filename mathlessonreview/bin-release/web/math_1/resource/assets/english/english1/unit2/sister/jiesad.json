@@ -1,0 +1,20 @@
+{"file":"jiesad.png",
+  "mc":{
+    "jiesad":{
+      "frameRate":15,
+      "labels":[
+        {"name":"start","frame":1}
+      ],
+      "frames":[
+        {"res": "jiesad3002 (1)","x": 0,"y": 0},
+        {"res": "jiesad3002 (2)","x": 0,"y": 0},
+        {"res": "jiesad3002 (3)","x": 0,"y": 0},
+        {"res": "jiesad3002 (4)","x": 0,"y": 0}
+      ]
+    }
+  },
+  "res":{
+"jiesad3002 (1)":{"x":1,"y":1,"w":69,"h":37,"offX":0,"offY":0,"sourceW":69,"sourceH":37},
+"jiesad3002 (2)":{"x":1,"y":40,"w":69,"h":37,"offX":0,"offY":0,"sourceW":69,"sourceH":37},
+"jiesad3002 (3)":{"x":1,"y":79,"w":69,"h":37,"offX":0,"offY":0,"sourceW":69,"sourceH":37},
+"jiesad3002 (4)":{"x":1,"y":118,"w":69,"h":37,"offX":0,"offY":0,"sourceW":69,"sourceH":37}}}

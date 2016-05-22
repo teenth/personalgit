@@ -1,0 +1,22 @@
+{"file":"maruchang.png",
+  "mc":{
+    "maruchang":{
+      "frameRate":15,
+      "labels":[
+        {"name":"start","frame":1}
+      ],
+      "frames":[
+        {"res": "maruchang1001 (1)","x": 0,"y": 0},
+        {"res": "maruchang1001 (2)","x": 0,"y": 0},
+        {"res": "maruchang1001 (3)","x": 0,"y": 0},
+        {"res": "maruchang1001 (4)","x": 0,"y": 0},
+        {"res": "maruchang1001 (5)","x": 0,"y": 0}
+      ]
+    }
+  },
+  "res":{
+"maruchang1001 (1)":{"x":1,"y":1,"w":69,"h":42,"offX":0,"offY":0,"sourceW":69,"sourceH":42},
+"maruchang1001 (2)":{"x":1,"y":45,"w":69,"h":42,"offX":0,"offY":0,"sourceW":69,"sourceH":42},
+"maruchang1001 (3)":{"x":1,"y":89,"w":69,"h":42,"offX":0,"offY":0,"sourceW":69,"sourceH":42},
+"maruchang1001 (4)":{"x":1,"y":45,"w":69,"h":42,"offX":0,"offY":0,"sourceW":69,"sourceH":42},
+"maruchang1001 (5)":{"x":1,"y":1,"w":69,"h":42,"offX":0,"offY":0,"sourceW":69,"sourceH":42}}}

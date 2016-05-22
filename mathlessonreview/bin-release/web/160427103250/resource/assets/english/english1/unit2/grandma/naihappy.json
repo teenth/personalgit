@@ -1,0 +1,24 @@
+{"file":"naihappy.png",
+  "mc":{
+    "naihappy":{
+      "frameRate":15,
+      "labels":[
+        {"name":"start","frame":1}
+      ],
+      "frames":[
+        {"res": "naihappy2001 (1)","x": 0,"y": 0},
+        {"res": "naihappy2001 (2)","x": 0,"y": 0},
+        {"res": "naihappy2001 (3)","x": 0,"y": 0},
+        {"res": "naihappy2001 (4)","x": 0,"y": 0},
+        {"res": "naihappy2001 (5)","x": 0,"y": 0},
+        {"res": "naihappy2001 (6)","x": 0,"y": 0}
+      ]
+    }
+  },
+  "res":{
+"naihappy2001 (1)":{"x":1,"y":1,"w":62,"h":42,"offX":0,"offY":0,"sourceW":62,"sourceH":42},
+"naihappy2001 (2)":{"x":65,"y":1,"w":62,"h":42,"offX":0,"offY":0,"sourceW":62,"sourceH":42},
+"naihappy2001 (3)":{"x":1,"y":45,"w":62,"h":42,"offX":0,"offY":0,"sourceW":62,"sourceH":42},
+"naihappy2001 (4)":{"x":65,"y":45,"w":62,"h":42,"offX":0,"offY":0,"sourceW":62,"sourceH":42},
+"naihappy2001 (5)":{"x":1,"y":89,"w":62,"h":42,"offX":0,"offY":0,"sourceW":62,"sourceH":42},
+"naihappy2001 (6)":{"x":65,"y":89,"w":62,"h":42,"offX":0,"offY":0,"sourceW":62,"sourceH":42}}}

@@ -1,0 +1,22 @@
+{"file":"jiebianzi.png",
+  "mc":{
+    "jiebianzi":{
+      "frameRate":15,
+      "labels":[
+        {"name":"start","frame":1}
+      ],
+      "frames":[
+        {"res": "jiebianzi0001","x": 0,"y": 0},
+        {"res": "jiebianzi0002","x": 0,"y": 0},
+        {"res": "jiebianzi0003","x": 0,"y": 0},
+        {"res": "jiebianzi0004","x": 0,"y": 0},
+        {"res": "jiebianzi0005","x": 0,"y": 0}
+      ]
+    }
+  },
+  "res":{
+"jiebianzi0001":{"x":1,"y":1,"w":182,"h":66,"offX":0,"offY":0,"sourceW":182,"sourceH":66},
+"jiebianzi0002":{"x":1,"y":69,"w":182,"h":66,"offX":0,"offY":0,"sourceW":182,"sourceH":66},
+"jiebianzi0003":{"x":1,"y":137,"w":182,"h":66,"offX":0,"offY":0,"sourceW":182,"sourceH":66},
+"jiebianzi0004":{"x":1,"y":69,"w":182,"h":66,"offX":0,"offY":0,"sourceW":182,"sourceH":66},
+"jiebianzi0005":{"x":1,"y":1,"w":182,"h":66,"offX":0,"offY":0,"sourceW":182,"sourceH":66}}}

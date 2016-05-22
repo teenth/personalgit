@@ -1,0 +1,65 @@
+{"file":"movePen.png",
+  "mc":{
+    "movePen": {
+      "frameRate":15,
+      "labels": [
+        {
+          "name": "start",
+          "frame": 1
+        }
+      ],
+      "frames":[
+              {"res": "movepen240000 (1)","x": 0,"y": 0},
+              {"res": "movepen240000 (2)","x": 0,"y": 0},
+              {"res": "movepen240000 (3)","x": 0,"y": 0},
+              {"res": "movepen240000 (4)","x": 0,"y": 0},
+              {"res": "movepen240000 (5)","x": 0,"y": 0},
+              {"res": "movepen240000 (6)","x": 0,"y": 0},
+              {"res": "movepen240000 (7)","x": 0,"y": 0},
+              {"res": "movepen240000 (8)","x": 0,"y": 0},
+              {"res": "movepen240000 (9)","x": 0,"y": 0},
+              {"res": "movepen240000 (10)","x": 0,"y": 0},
+              {"res": "movepen240000 (11)","x": 0,"y": 0},
+              {"res": "movepen240000 (12)","x": 0,"y": 0},
+              {"res": "movepen240000 (13)","x": 0,"y": 0},
+              {"res": "movepen240000 (14)","x": 0,"y": 0},
+              {"res": "movepen240000 (15)","x": 0,"y": 0},
+              {"res": "movepen240000 (16)","x": 0,"y": 0},
+              {"res": "movepen240000 (17)","x": 0,"y": 0},
+              {"res": "movepen240000 (18)","x": 0,"y": 0},
+              {"res": "movepen240000 (19)","x": 0,"y": 0},
+              {"res": "movepen240000 (20)","x": 0,"y": 0},
+              {"res": "movepen240000 (21)","x": 0,"y": 0},
+              {"res": "movepen240000 (22)","x": 0,"y": 0},
+              {"res": "movepen240000 (23)","x": 0,"y": 0},
+              {"res": "movepen240000 (24)","x": 0,"y": 0}
+            ]
+          }
+        },
+  "res":{
+"movepen240000 (1)":{"x":1,"y":1,"w":225,"h":393,"offX":0,"offY":0,"sourceW":225,"sourceH":393},
+"movepen240000 (2)":{"x":228,"y":1,"w":225,"h":393,"offX":0,"offY":0,"sourceW":225,"sourceH":393},
+"movepen240000 (3)":{"x":455,"y":1,"w":225,"h":393,"offX":0,"offY":0,"sourceW":225,"sourceH":393},
+"movepen240000 (4)":{"x":682,"y":1,"w":225,"h":393,"offX":0,"offY":0,"sourceW":225,"sourceH":393},
+"movepen240000 (5)":{"x":909,"y":1,"w":225,"h":393,"offX":0,"offY":0,"sourceW":225,"sourceH":393},
+"movepen240000 (6)":{"x":1136,"y":1,"w":225,"h":393,"offX":0,"offY":0,"sourceW":225,"sourceH":393},
+"movepen240000 (7)":{"x":1363,"y":1,"w":225,"h":393,"offX":0,"offY":0,"sourceW":225,"sourceH":393},
+"movepen240000 (8)":{"x":1590,"y":1,"w":225,"h":393,"offX":0,"offY":0,"sourceW":225,"sourceH":393},
+"movepen240000 (9)":{"x":1817,"y":1,"w":225,"h":393,"offX":0,"offY":0,"sourceW":225,"sourceH":393},
+"movepen240000 (10)":{"x":1,"y":396,"w":225,"h":393,"offX":0,"offY":0,"sourceW":225,"sourceH":393},
+"movepen240000 (11)":{"x":228,"y":396,"w":225,"h":393,"offX":0,"offY":0,"sourceW":225,"sourceH":393},
+"movepen240000 (12)":{"x":455,"y":396,"w":225,"h":393,"offX":0,"offY":0,"sourceW":225,"sourceH":393},
+"movepen240000 (13)":{"x":682,"y":396,"w":225,"h":393,"offX":0,"offY":0,"sourceW":225,"sourceH":393},
+"movepen240000 (14)":{"x":909,"y":396,"w":225,"h":393,"offX":0,"offY":0,"sourceW":225,"sourceH":393},
+"movepen240000 (15)":{"x":1136,"y":396,"w":225,"h":393,"offX":0,"offY":0,"sourceW":225,"sourceH":393},
+"movepen240000 (16)":{"x":1363,"y":396,"w":225,"h":393,"offX":0,"offY":0,"sourceW":225,"sourceH":393},
+"movepen240000 (17)":{"x":1590,"y":396,"w":225,"h":393,"offX":0,"offY":0,"sourceW":225,"sourceH":393},
+"movepen240000 (18)":{"x":1817,"y":396,"w":225,"h":393,"offX":0,"offY":0,"sourceW":225,"sourceH":393},
+"movepen240000 (19)":{"x":1,"y":791,"w":225,"h":393,"offX":0,"offY":0,"sourceW":225,"sourceH":393},
+"movepen240000 (20)":{"x":228,"y":791,"w":225,"h":393,"offX":0,"offY":0,"sourceW":225,"sourceH":393},
+"movepen240000 (21)":{"x":228,"y":791,"w":225,"h":393,"offX":0,"offY":0,"sourceW":225,"sourceH":393},
+"movepen240000 (22)":{"x":228,"y":791,"w":225,"h":393,"offX":0,"offY":0,"sourceW":225,"sourceH":393},
+"movepen240000 (23)":{"x":228,"y":791,"w":225,"h":393,"offX":0,"offY":0,"sourceW":225,"sourceH":393},
+"movepen240000 (24)":{"x":228,"y":791,"w":225,"h":393,"offX":0,"offY":0,"sourceW":225,"sourceH":393}
+  }
+}

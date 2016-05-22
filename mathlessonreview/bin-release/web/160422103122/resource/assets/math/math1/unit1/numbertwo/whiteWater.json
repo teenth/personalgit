@@ -1,0 +1,16 @@
+{"file":"whiteWater.png",
+    "mc":{
+      "whiteWater":{
+        "frameRate":5,
+        "labels":[{"name":"start","frame":1}],
+        "frames":[{"res":"s1","x":0,"y":0},
+                  {"res":"s2","x":0,"y":0},
+                  {"res":"s3","x":0,"y":0},
+                  {"res":"s4","x":0,"y":0}]
+      }
+    },
+  "res":{
+"s1":{"x":1,"y":1,"w":363,"h":231,"offX":0,"offY":0,"sourceW":363,"sourceH":231},
+"s2":{"x":1,"y":234,"w":363,"h":231,"offX":0,"offY":0,"sourceW":363,"sourceH":231},
+"s3":{"x":1,"y":467,"w":363,"h":231,"offX":0,"offY":0,"sourceW":363,"sourceH":231},
+"s4":{"x":1,"y":700,"w":363,"h":231,"offX":0,"offY":0,"sourceW":363,"sourceH":231}}}

@@ -1,0 +1,156 @@
+{"file":"jump1.png",
+  "mc":{
+    "jump1": {
+      "frameRate":10,
+      "labels": [
+        {
+          "name": "start",
+          "frame": 1,
+          "end":12
+        },
+        {
+          "name": "eye",
+          "frame": 12
+        }
+      ],
+      "events":[{"name":"@fallmove0","frame":2},
+                {"name":"@fallmove1","frame":6},
+                {"name":"@fallmove2","frame":7},
+                {"name":"@fallmove3","frame":8},
+                {"name":"@fallmove4","frame":9},
+                {"name":"@fallmove5","frame":10},
+                {"name":"@fallmove6","frame":11},
+                {"name":"@fallmove7","frame":12}],
+      "frames": [
+        {
+          "res": "1tiaodong0000",
+          "x": 0,
+          "y": 0
+        },
+        {
+          "res": "1tiaodong0001",
+          "x": 0,
+          "y": 0
+        },
+        {
+          "res": "1tiaodong0002",
+          "x": 0,
+          "y": 0
+        },
+        {
+          "res": "1tiaodong0003",
+          "x": 0,
+          "y": 0
+        },
+        {
+          "res": "1tiaodong0004",
+          "x": 0,
+          "y": 0
+        },
+        {
+          "res": "1tiaodong0005",
+          "x": 0,
+          "y": 0
+        },
+        {
+          "res": "1tiaodong0006",
+          "x": 0,
+          "y": 0
+        },
+        {
+          "res": "1tiaodong0007",
+          "x": 0,
+          "y": 0
+        },
+        {
+          "res": "1tiaodong0008",
+          "x": 0,
+          "y": 0
+        },
+        {
+          "res": "1tiaodong0009",
+          "x": 0,
+          "y": 0
+        },
+        {
+          "res": "1tiaodong0010",
+          "x": 0,
+          "y": 0
+        },
+        {
+          "res": "1tiaodong0011",
+          "x": 0,
+          "y": 0
+        },
+        {
+          "res": "1tiaodong0013",
+          "x": 0,
+          "y": 0
+        },
+        {
+          "res": "1tiaodong0014",
+          "x": 0,
+          "y": 0
+        },
+        {
+          "res": "1tiaodong0015",
+          "x": 0,
+          "y": 0
+        },
+        {
+          "res": "1tiaodong0016",
+          "x": 0,
+          "y": 0
+        },
+        {
+          "res": "1tiaodong0017",
+          "x": 0,
+          "y": 0
+        },
+        {
+          "res": "1tiaodong0019",
+          "x": 0,
+          "y": 0
+        },
+        {
+          "res": "1tiaodong0020",
+          "x": 0,
+          "y": 0
+        },
+        {
+          "res": "1tiaodong0021",
+          "x": 0,
+          "y": 0
+        },
+        {
+          "res": "1tiaodong0022",
+          "x": 0,
+          "y": 0
+        }
+      ]
+    }
+  },
+  "res":{
+        "1tiaodong0000":{"x":1,"y":1,"w":135,"h":267,"offX":0,"offY":0,"sourceW":135,"sourceH":267},
+        "1tiaodong0001":{"x":1,"y":270,"w":135,"h":267,"offX":0,"offY":0,"sourceW":135,"sourceH":267},
+        "1tiaodong0002":{"x":1,"y":270,"w":135,"h":267,"offX":0,"offY":0,"sourceW":135,"sourceH":267},
+        "1tiaodong0003":{"x":1,"y":539,"w":135,"h":267,"offX":0,"offY":0,"sourceW":135,"sourceH":267},
+        "1tiaodong0004":{"x":138,"y":1,"w":135,"h":267,"offX":0,"offY":0,"sourceW":135,"sourceH":267},
+        "1tiaodong0005":{"x":138,"y":270,"w":135,"h":267,"offX":0,"offY":0,"sourceW":135,"sourceH":267},
+        "1tiaodong0006":{"x":138,"y":270,"w":135,"h":267,"offX":0,"offY":0,"sourceW":135,"sourceH":267},
+        "1tiaodong0007":{"x":138,"y":539,"w":135,"h":267,"offX":0,"offY":0,"sourceW":135,"sourceH":267},
+        "1tiaodong0008":{"x":275,"y":1,"w":135,"h":267,"offX":0,"offY":0,"sourceW":135,"sourceH":267},
+        "1tiaodong0009":{"x":275,"y":1,"w":135,"h":267,"offX":0,"offY":0,"sourceW":135,"sourceH":267},
+        "1tiaodong0010":{"x":275,"y":270,"w":135,"h":267,"offX":0,"offY":0,"sourceW":135,"sourceH":267},
+        "1tiaodong0011":{"x":275,"y":539,"w":135,"h":267,"offX":0,"offY":0,"sourceW":135,"sourceH":267},
+        "1tiaodong0013":{"x":275,"y":539,"w":135,"h":267,"offX":0,"offY":0,"sourceW":135,"sourceH":267},
+        "1tiaodong0014":{"x":412,"y":1,"w":135,"h":267,"offX":0,"offY":0,"sourceW":135,"sourceH":267},
+        "1tiaodong0015":{"x":412,"y":1,"w":135,"h":267,"offX":0,"offY":0,"sourceW":135,"sourceH":267},
+        "1tiaodong0016":{"x":412,"y":270,"w":135,"h":267,"offX":0,"offY":0,"sourceW":135,"sourceH":267},
+        "1tiaodong0017":{"x":412,"y":539,"w":135,"h":267,"offX":0,"offY":0,"sourceW":135,"sourceH":267},
+        "1tiaodong0019":{"x":549,"y":1,"w":135,"h":267,"offX":0,"offY":0,"sourceW":135,"sourceH":267},
+        "1tiaodong0020":{"x":549,"y":1,"w":135,"h":267,"offX":0,"offY":0,"sourceW":135,"sourceH":267},
+        "1tiaodong0021":{"x":686,"y":1,"w":135,"h":267,"offX":0,"offY":0,"sourceW":135,"sourceH":267},
+        "1tiaodong0022":{"x":823,"y":1,"w":135,"h":267,"offX":0,"offY":0,"sourceW":135,"sourceH":267}
+      }
+}

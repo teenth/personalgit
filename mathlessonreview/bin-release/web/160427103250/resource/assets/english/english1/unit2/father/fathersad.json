@@ -1,0 +1,24 @@
+{"file":"fathersad.png",
+  "mc":{
+    "fathersad":{
+      "frameRate":15,
+      "labels":[
+        {"name":"start","frame":1}
+      ],
+      "frames":[
+        {"res": "basad1001 (1)","x": 0,"y": 0},
+        {"res": "basad1001 (2)","x": 0,"y": 0},
+        {"res": "basad1001 (3)","x": 0,"y": 0},
+        {"res": "basad1001 (4)","x": 0,"y": 0},
+        {"res": "basad1001 (5)","x": 0,"y": 0},
+        {"res": "basad1001 (6)","x": 0,"y": 0}
+      ]
+    }
+  },
+  "res":{
+"basad1001 (1)":{"x":1,"y":1,"w":63,"h":46,"offX":0,"offY":0,"sourceW":63,"sourceH":46},
+"basad1001 (2)":{"x":66,"y":1,"w":63,"h":46,"offX":0,"offY":0,"sourceW":63,"sourceH":46},
+"basad1001 (3)":{"x":131,"y":1,"w":63,"h":46,"offX":0,"offY":0,"sourceW":63,"sourceH":46},
+"basad1001 (4)":{"x":1,"y":49,"w":63,"h":46,"offX":0,"offY":0,"sourceW":63,"sourceH":46},
+"basad1001 (5)":{"x":66,"y":49,"w":63,"h":46,"offX":0,"offY":0,"sourceW":63,"sourceH":46},
+"basad1001 (6)":{"x":131,"y":49,"w":63,"h":46,"offX":0,"offY":0,"sourceW":63,"sourceH":46}}}
